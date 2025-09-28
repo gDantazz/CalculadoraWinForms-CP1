@@ -1,0 +1,16 @@
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\bin\Debug\net8.0-windows\CalculadoraWinFormsApp.exe
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\bin\Debug\net8.0-windows\CalculadoraWinFormsApp.deps.json
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\bin\Debug\net8.0-windows\CalculadoraWinFormsApp.runtimeconfig.json
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\bin\Debug\net8.0-windows\CalculadoraWinFormsApp.dll
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\bin\Debug\net8.0-windows\CalculadoraWinFormsApp.pdb
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.Form1.resources
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.csproj.GenerateResource.cache
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.AssemblyInfo.cs
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.dll
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\refint\CalculadoraWinFormsApp.dll
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.pdb
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\CalculadoraWinFormsApp.genruntimeconfig.cache
+C:\Users\vande\Downloads\CP-NET\CalculadoraWinFormsApp\obj\Debug\net8.0-windows\ref\CalculadoraWinFormsApp.dll
