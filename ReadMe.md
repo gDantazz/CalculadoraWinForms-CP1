@@ -1,12 +1,14 @@
 # CalculadoraWinFormsApp
 
-# Integrantes
-Nome: Gustavo Dantas  RM: 560685
-Nome: Paulo Neto  RM: 560262
-Nome: Jennyfer  RM: 561020
-Nome: Ivanildo  RM: 560049
-Nome: Leticia  RM: 559258
-Nome: Davi  RM: 559906
+## Integrantes
+Nome: Gustavo Dantas RM: 560685  
+Nome: Paulo Neto  RM: 560262  
+Nome: Jennyfer   RM: 561020  
+Nome: Ivanildo   RM: 560049  
+Nome: Leticia   RM: 559258  
+Nome: Davi    RM: 559906  
+
+---
 
 ## Sobre o projeto
 Essa é uma calculadora simples desenvolvida em **C#** usando **Windows Forms**.  
