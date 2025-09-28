@@ -1,5 +1,9 @@
 # CalculadoraWinFormsApp
 
+# Integrantes
+Nome: Gustavo Dantas
+RM: 560685
+
 ## Sobre o projeto
 Essa é uma calculadora simples desenvolvida em **C#** usando **Windows Forms**.  
 Ela faz operações básicas como adição, subtração, multiplicação e divisão, e também tem funções extras como raiz quadrada e potenciação.  
